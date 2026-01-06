@@ -1,4 +1,4 @@
-# PhonePe Pulse Data Analysis Dashboard
+# PhonePe Pulse Digital-Payment-Analytics Dashboard
 
 ## Project Overview
 
@@ -575,5 +575,6 @@ RETURN
 - Subject to Kaggle's Terms of Use and dataset-specific license
 
 ---
+
 
 *This dashboard represents a comprehensive analysis of India's digital payment revolution through PhonePe platform data. The insights derived support data-driven decision making for fintech strategy, regional expansion, and user growth initiatives.*
